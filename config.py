@@ -1,1 +1,0 @@
-db_password = "Man1festf0rward*!"
